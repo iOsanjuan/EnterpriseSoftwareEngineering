@@ -1,0 +1,921 @@
+20:36:50.173 INFO  controller.MenuViewController : Book List View Pressed
+20:36:50.176 INFO  controller.MenuViewController : Switching Views
+20:41:33.077 INFO  controller.MenuViewController : Book List View Pressed
+20:41:33.080 INFO  controller.MenuViewController : Switching Views
+20:41:33.080 INFO  view.ViewManager : Attempting to switch view!
+20:46:26.804 DEBUG controller.MenuViewController : Quitting Program
+20:54:19.126 INFO  controller.MenuViewController : Book List View Pressed
+20:54:19.129 INFO  controller.MenuViewController : Switching Views
+20:54:19.129 INFO  view.ViewManager : Attempting to switch view!
+20:55:11.130 DEBUG controller.MenuViewController : Quitting Program
+20:55:18.329 INFO  controller.MenuViewController : Book List View Pressed
+20:55:18.331 INFO  controller.MenuViewController : Switching Views
+20:55:18.332 INFO  view.ViewManager : Attempting to switch view!
+20:55:18.353 ERROR view.ViewManager : Wow: IOE Exception!
+20:55:19.030 INFO  controller.MenuViewController : Book List View Pressed
+20:55:19.030 INFO  controller.MenuViewController : Switching Views
+20:55:19.031 INFO  view.ViewManager : Attempting to switch view!
+20:55:19.038 ERROR view.ViewManager : Wow: IOE Exception!
+20:55:19.389 INFO  controller.MenuViewController : Book List View Pressed
+20:55:19.390 INFO  controller.MenuViewController : Switching Views
+20:55:19.391 INFO  view.ViewManager : Attempting to switch view!
+20:55:19.397 ERROR view.ViewManager : Wow: IOE Exception!
+20:56:11.726 DEBUG controller.MenuViewController : Quitting Program
+20:56:19.321 INFO  controller.MenuViewController : Book List View Pressed
+20:56:19.324 INFO  controller.MenuViewController : Switching Views
+20:56:19.324 INFO  view.ViewManager : Attempting to switch view!
+20:56:19.342 ERROR view.ViewManager : Wow: IOE Exception!
+20:57:09.977 DEBUG controller.MenuViewController : Quitting Program
+20:57:11.981 INFO  controller.MenuViewController : Book List View Pressed
+20:57:11.983 INFO  controller.MenuViewController : Switching Views
+20:57:17.521 DEBUG controller.MenuViewController : Quitting Program
+20:57:23.614 INFO  controller.MenuViewController : Book List View Pressed
+20:57:23.617 INFO  controller.MenuViewController : Switching Views
+20:58:27.905 DEBUG controller.MenuViewController : Quitting Program
+20:58:36.030 INFO  controller.MenuViewController : Book List View Pressed
+20:58:36.033 INFO  controller.MenuViewController : Switching Views
+20:59:02.434 INFO  controller.MenuViewController : Book List View Pressed
+20:59:02.439 INFO  controller.MenuViewController : Switching Views
+20:59:02.440 INFO  view.ViewManager : Attempting to switch view!
+20:59:02.458 ERROR view.ViewManager : Wow: IOE Exception!
+20:59:06.760 DEBUG controller.MenuViewController : Quitting Program
+21:00:44.955 INFO  controller.MenuViewController : Book List View Pressed
+21:00:44.958 INFO  controller.MenuViewController : Switching Views
+21:00:44.958 INFO  view.ViewManager : Attempting to switch view!
+21:00:44.975 ERROR view.ViewManager : Wow: IOE Exception!
+21:01:18.539 DEBUG controller.MenuViewController : Quitting Program
+21:06:49.135 INFO  controller.MenuViewController : Book List View Pressed
+21:06:49.137 INFO  controller.MenuViewController : Switching Views
+21:06:49.138 INFO  view.ViewManager : Attempting to switch view!
+21:07:53.117 INFO  controller.MenuViewController : Book List View Pressed
+21:07:53.119 INFO  controller.MenuViewController : Switching Views
+21:07:53.120 INFO  view.ViewManager : Attempting to switch view!
+21:07:59.645 DEBUG controller.MenuViewController : Quitting Program
+21:12:13.058 INFO  controller.MenuViewController : Book List View Pressed
+21:12:13.061 INFO  controller.MenuViewController : Switching Views
+21:12:13.061 INFO  view.ViewManager : Attempting to switch view!
+21:12:13.066 ERROR view.ViewManager : Wow: IOE Exception!
+21:12:14.593 INFO  controller.MenuViewController : Book List View Pressed
+21:12:14.593 INFO  controller.MenuViewController : Switching Views
+21:12:14.594 INFO  view.ViewManager : Attempting to switch view!
+21:12:14.595 ERROR view.ViewManager : Wow: IOE Exception!
+21:12:50.074 DEBUG controller.MenuViewController : Quitting Program
+21:15:58.577 INFO  controller.MenuViewController : Book List View Pressed
+21:15:58.579 INFO  controller.MenuViewController : Switching Views
+21:15:58.580 INFO  view.ViewManager : Attempting to switch view!
+21:15:58.583 ERROR view.ViewManager : Wow: IOE Exception!
+21:16:02.656 DEBUG controller.MenuViewController : Quitting Program
+21:16:55.200 INFO  controller.MenuViewController : Book List View Pressed
+21:16:55.202 INFO  controller.MenuViewController : Switching Views
+21:16:55.203 INFO  view.ViewManager : Attempting to switch view!
+21:17:00.381 DEBUG controller.MenuViewController : Quitting Program
+21:21:11.989 INFO  controller.MenuViewController : Book List View Pressed
+21:21:11.992 INFO  controller.MenuViewController : Switching Views
+21:21:11.992 INFO  view.ViewManager : Attempting to switch view!
+21:21:12.012 ERROR view.ViewManager : Wow: IOE Exception!
+21:21:15.685 DEBUG controller.MenuViewController : Quitting Program
+21:23:30.031 INFO  controller.MenuViewController : Book List View Pressed
+21:23:30.033 INFO  controller.MenuViewController : Switching Views
+21:23:30.034 INFO  view.ViewManager : Attempting to switch view!
+21:23:30.036 ERROR view.ViewManager : Wow: IOE Exception!
+21:23:33.594 DEBUG controller.MenuViewController : Quitting Program
+21:23:57.169 INFO  controller.MenuViewController : Book List View Pressed
+21:23:57.173 INFO  controller.MenuViewController : Switching Views
+21:23:57.173 INFO  view.ViewManager : Attempting to switch view!
+21:23:57.174 DEBUG view.ViewManager : After url
+21:23:57.174 DEBUG view.ViewManager : After loader
+21:23:57.175 DEBUG view.ViewManager : After controller
+21:23:57.178 ERROR view.ViewManager : Wow: IOE Exception!
+21:25:09.101 DEBUG controller.MenuViewController : Quitting Program
+21:25:15.443 INFO  controller.MenuViewController : Book List View Pressed
+21:25:15.447 INFO  controller.MenuViewController : Switching Views
+21:25:15.447 INFO  view.ViewManager : Attempting to switch view!
+21:25:15.448 DEBUG view.ViewManager : After url
+21:25:15.449 DEBUG view.ViewManager : After loaderfile:/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml
+21:25:15.450 DEBUG view.ViewManager : After controller
+21:25:15.453 ERROR view.ViewManager : Wow: IOE Exception!
+21:25:58.736 DEBUG controller.MenuViewController : Quitting Program
+21:26:19.167 INFO  controller.MenuViewController : Book List View Pressed
+21:26:19.170 INFO  controller.MenuViewController : Switching Views
+21:26:19.170 INFO  view.ViewManager : Attempting to switch view!
+21:26:19.170 DEBUG view.ViewManager : After url
+21:26:19.171 DEBUG view.ViewManager : After loaderfile:/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml
+21:26:19.172 DEBUG view.ViewManager : After controllerjavafx.fxml.FXMLLoader@18ed69b7
+21:26:19.174 ERROR view.ViewManager : Wow: IOE Exception!
+21:27:13.763 DEBUG controller.MenuViewController : Quitting Program
+21:27:44.197 INFO  controller.MenuViewController : Book List View Pressed
+21:27:44.200 INFO  controller.MenuViewController : Switching Views
+21:27:44.200 INFO  view.ViewManager : Attempting to switch view!
+21:27:44.201 DEBUG view.ViewManager : After url
+21:27:44.201 DEBUG view.ViewManager : After loader
+21:27:44.202 DEBUG view.ViewManager : After controller
+21:27:44.204 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:27:44.205 ERROR view.ViewManager : Wow: IOE Exception!
+21:28:23.813 INFO  controller.MenuViewController : Book List View Pressed
+21:28:23.815 INFO  controller.MenuViewController : Switching Views
+21:28:23.816 INFO  view.ViewManager : Attempting to switch view!
+21:28:23.816 DEBUG view.ViewManager : After url
+21:28:23.817 DEBUG view.ViewManager : After loader
+21:28:23.817 DEBUG view.ViewManager : After controller
+21:28:23.821 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:28:23.822 ERROR view.ViewManager : Wow: IOE Exception!
+21:29:07.206 INFO  controller.MenuViewController : Book List View Pressed
+21:29:07.209 INFO  controller.MenuViewController : Switching Views
+21:29:07.209 INFO  view.ViewManager : Attempting to switch view!
+21:29:07.210 DEBUG view.ViewManager : After url
+21:29:07.210 DEBUG view.ViewManager : After loader
+21:29:07.211 DEBUG view.ViewManager : After controller
+21:29:07.213 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:29:07.214 ERROR view.ViewManager : Wow: IOE Exception!
+21:31:09.443 INFO  controller.MenuViewController : Book List View Pressed
+21:31:09.446 INFO  controller.MenuViewController : Switching Views
+21:31:09.447 INFO  view.ViewManager : Attempting to switch view!
+21:31:09.447 DEBUG view.ViewManager : After url
+21:31:09.447 DEBUG view.ViewManager : After loader
+21:31:09.448 DEBUG view.ViewManager : After controller
+21:31:09.451 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:31:09.451 ERROR view.ViewManager : Wow: IOE Exception!
+21:31:10.097 INFO  controller.MenuViewController : Book List View Pressed
+21:31:10.098 INFO  controller.MenuViewController : Switching Views
+21:31:10.099 INFO  view.ViewManager : Attempting to switch view!
+21:31:10.100 DEBUG view.ViewManager : After url
+21:31:10.100 DEBUG view.ViewManager : After loader
+21:31:10.100 DEBUG view.ViewManager : After controller
+21:31:10.102 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:31:10.102 ERROR view.ViewManager : Wow: IOE Exception!
+21:31:10.425 INFO  controller.MenuViewController : Book List View Pressed
+21:31:10.426 INFO  controller.MenuViewController : Switching Views
+21:31:10.427 INFO  view.ViewManager : Attempting to switch view!
+21:31:10.427 DEBUG view.ViewManager : After url
+21:31:10.428 DEBUG view.ViewManager : After loader
+21:31:10.428 DEBUG view.ViewManager : After controller
+21:31:10.430 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:31:10.430 ERROR view.ViewManager : Wow: IOE Exception!
+21:32:22.000 INFO  controller.MenuViewController : Book List View Pressed
+21:32:22.003 INFO  controller.MenuViewController : Switching Views
+21:32:22.004 INFO  view.ViewManager : Attempting to switch view!
+21:32:22.004 DEBUG view.ViewManager : After url
+21:32:22.005 DEBUG view.ViewManager : After loader
+21:32:22.005 DEBUG view.ViewManager : After controller
+21:32:22.009 ERROR view.ViewManager : javafx.fxml.LoadException: Error resolving onAction='#listButtonClicked', either the event handler is not in the Namespace or there is an error in the script.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:14
+
+21:32:22.010 ERROR view.ViewManager : Wow: IOE Exception!
+21:32:50.121 INFO  controller.MenuViewController : Book List View Pressed
+21:32:50.124 INFO  controller.MenuViewController : Switching Views
+21:32:50.124 INFO  view.ViewManager : Attempting to switch view!
+21:32:50.125 DEBUG view.ViewManager : After url
+21:32:50.125 DEBUG view.ViewManager : After loader
+21:32:50.126 DEBUG view.ViewManager : After controller
+21:32:50.129 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:32:50.129 ERROR view.ViewManager : Wow: IOE Exception!
+21:34:21.901 DEBUG controller.MenuViewController : Quitting Program
+21:37:03.984 INFO  controller.MenuViewController : Book List View Pressed
+21:37:03.987 INFO  controller.MenuViewController : Switching Views
+21:37:03.988 INFO  view.ViewManager : Attempting to switch view!
+21:37:03.989 DEBUG view.ViewManager : After url
+21:37:03.989 DEBUG view.ViewManager : After loader
+21:37:03.990 DEBUG view.ViewManager : After controller
+21:37:03.994 ERROR view.ViewManager : javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:9
+
+21:37:03.994 ERROR view.ViewManager : Wow: IOE Exception!
+21:37:26.185 DEBUG controller.MenuViewController : Quitting Program
+21:42:30.481 INFO  controller.MenuViewController : Book List View Pressed
+21:42:30.484 INFO  controller.MenuViewController : Switching Views
+21:42:30.485 INFO  view.ViewManager : Attempting to switch view!
+21:42:30.486 DEBUG view.ViewManager : After url
+21:42:30.486 DEBUG view.ViewManager : After loader
+21:42:30.486 DEBUG view.ViewManager : After controller
+21:42:30.505 DEBUG view.ViewManager : After content
+21:42:30.505 DEBUG view.ViewManager : After center
+21:42:31.381 INFO  controller.MenuViewController : Book List View Pressed
+21:42:31.391 INFO  controller.MenuViewController : Switching Views
+21:42:31.392 INFO  view.ViewManager : Attempting to switch view!
+21:42:31.393 DEBUG view.ViewManager : After url
+21:42:31.394 DEBUG view.ViewManager : After loader
+21:42:31.394 DEBUG view.ViewManager : After controller
+21:42:31.456 DEBUG view.ViewManager : After content
+21:42:31.457 DEBUG view.ViewManager : After center
+21:42:50.467 DEBUG controller.MenuViewController : Quitting Program
+21:43:08.992 INFO  controller.MenuViewController : Book List View Pressed
+21:43:08.995 INFO  controller.MenuViewController : Switching Views
+21:43:08.995 INFO  view.ViewManager : Attempting to switch view!
+21:43:08.996 DEBUG view.ViewManager : After url
+21:43:08.996 DEBUG view.ViewManager : After loader
+21:43:08.997 DEBUG view.ViewManager : After controller
+21:43:09.014 DEBUG view.ViewManager : After content
+21:43:09.016 DEBUG view.ViewManager : After center
+21:47:44.140 INFO  controller.MenuViewController : Book List View Pressed
+21:47:44.143 INFO  controller.MenuViewController : Switching Views
+21:47:44.143 INFO  view.ViewManager : Attempting to switch view!
+21:47:44.144 DEBUG view.ViewManager : After url
+21:47:44.144 DEBUG view.ViewManager : After loader
+21:47:44.145 DEBUG view.ViewManager : After controller
+21:47:44.162 DEBUG view.ViewManager : After content
+21:47:44.164 DEBUG view.ViewManager : After center
+21:47:45.594 INFO  controller.BookListViewController : Home View Pressed
+21:47:45.595 INFO  controller.BookListViewController : Switching Views
+21:47:45.596 INFO  view.ViewManager : Attempting to switch view!
+21:47:47.050 INFO  controller.MenuViewController : Book List View Pressed
+21:47:47.051 INFO  controller.MenuViewController : Switching Views
+21:47:47.052 INFO  view.ViewManager : Attempting to switch view!
+21:47:47.052 DEBUG view.ViewManager : After url
+21:47:47.053 DEBUG view.ViewManager : After loader
+21:47:47.053 DEBUG view.ViewManager : After controller
+21:47:47.059 DEBUG view.ViewManager : After content
+21:47:47.061 DEBUG view.ViewManager : After center
+21:47:47.945 INFO  controller.BookListViewController : Home View Pressed
+21:47:47.946 INFO  controller.BookListViewController : Switching Views
+21:47:47.946 INFO  view.ViewManager : Attempting to switch view!
+21:47:48.776 INFO  controller.MenuViewController : Book List View Pressed
+21:47:48.777 INFO  controller.MenuViewController : Switching Views
+21:47:48.777 INFO  view.ViewManager : Attempting to switch view!
+21:47:48.778 DEBUG view.ViewManager : After url
+21:47:48.778 DEBUG view.ViewManager : After loader
+21:47:48.779 DEBUG view.ViewManager : After controller
+21:47:48.783 DEBUG view.ViewManager : After content
+21:47:48.784 DEBUG view.ViewManager : After center
+21:47:49.514 INFO  controller.BookListViewController : Home View Pressed
+21:47:49.515 INFO  controller.BookListViewController : Switching Views
+21:47:49.515 INFO  view.ViewManager : Attempting to switch view!
+21:47:50.588 DEBUG controller.MenuViewController : Quitting Program
+21:50:43.072 INFO  controller.MenuViewController : Book List View Pressed
+21:50:43.075 INFO  controller.MenuViewController : Switching Views
+21:50:43.075 INFO  view.ViewManager : Attempting to switch view!
+21:51:40.770 INFO  controller.MenuViewController : Book List View Pressed
+21:51:40.772 INFO  controller.MenuViewController : Switching Views
+21:51:40.773 INFO  view.ViewManager : Attempting to switch view!
+21:51:42.487 INFO  controller.BookListViewController : Home View Pressed
+21:51:42.488 INFO  controller.BookListViewController : Switching Views
+21:51:42.488 INFO  view.ViewManager : Attempting to switch view!
+21:51:43.441 DEBUG controller.MenuViewController : Quitting Program
+22:37:45.557 INFO  controller.MenuViewController : Book List View Pressed
+22:37:45.561 INFO  controller.MenuViewController : Switching Views
+22:37:45.561 INFO  view.ViewManager : Attempting to switch view!
+22:37:46.578 INFO  controller.BookListViewController : Home View Pressed
+22:37:46.579 INFO  controller.BookListViewController : Switching Views
+22:37:46.579 INFO  view.ViewManager : Attempting to switch view!
+22:37:47.532 INFO  controller.MenuViewController : Book List View Pressed
+22:37:47.533 INFO  controller.MenuViewController : Switching Views
+22:37:47.533 INFO  view.ViewManager : Attempting to switch view!
+22:37:48.350 INFO  controller.BookListViewController : Home View Pressed
+22:37:48.351 INFO  controller.BookListViewController : Switching Views
+22:37:48.352 INFO  view.ViewManager : Attempting to switch view!
+22:37:49.109 INFO  controller.MenuViewController : Book List View Pressed
+22:37:49.110 INFO  controller.MenuViewController : Switching Views
+22:37:49.111 INFO  view.ViewManager : Attempting to switch view!
+22:37:50.024 INFO  controller.BookListViewController : Home View Pressed
+22:37:50.025 INFO  controller.BookListViewController : Switching Views
+22:37:50.026 INFO  view.ViewManager : Attempting to switch view!
+22:37:50.848 INFO  controller.MenuViewController : Book List View Pressed
+22:37:50.848 INFO  controller.MenuViewController : Switching Views
+22:37:50.849 INFO  view.ViewManager : Attempting to switch view!
+22:37:52.473 INFO  controller.BookListViewController : Home View Pressed
+22:37:52.474 INFO  controller.BookListViewController : Switching Views
+22:37:52.474 INFO  view.ViewManager : Attempting to switch view!
+22:37:53.556 INFO  controller.MenuViewController : Book List View Pressed
+22:37:53.559 INFO  controller.MenuViewController : Switching Views
+22:37:53.560 INFO  view.ViewManager : Attempting to switch view!
+22:37:55.544 DEBUG controller.BookListViewController : Quitting Program
+22:40:10.737 DEBUG controller.MenuViewController : Quitting Program
+22:40:21.910 INFO  controller.MenuViewController : Book List View Pressed
+22:40:21.912 INFO  controller.MenuViewController : Switching Views
+22:40:21.913 INFO  view.ViewManager : Attempting to switch view!
+22:40:22.964 INFO  controller.BookListViewController : Home View Pressed
+22:40:22.965 INFO  controller.BookListViewController : Switching Views
+22:40:22.965 INFO  view.ViewManager : Attempting to switch view!
+22:40:23.636 INFO  controller.MenuViewController : Book List View Pressed
+22:40:23.639 INFO  controller.MenuViewController : Switching Views
+22:40:23.639 INFO  view.ViewManager : Attempting to switch view!
+22:40:24.282 INFO  controller.BookListViewController : Home View Pressed
+22:40:24.283 INFO  controller.BookListViewController : Switching Views
+22:40:24.283 INFO  view.ViewManager : Attempting to switch view!
+22:40:24.994 INFO  controller.MenuViewController : Book List View Pressed
+22:40:24.995 INFO  controller.MenuViewController : Switching Views
+22:40:24.996 INFO  view.ViewManager : Attempting to switch view!
+22:40:26.356 INFO  controller.BookListViewController : Home View Pressed
+22:40:26.357 INFO  controller.BookListViewController : Switching Views
+22:40:26.358 INFO  view.ViewManager : Attempting to switch view!
+22:40:28.037 DEBUG controller.MenuViewController : Quitting Program
+22:57:36.179 INFO  controller.MenuViewController : Book List View Pressed
+22:57:36.182 INFO  controller.MenuViewController : Switching Views
+22:57:36.183 INFO  view.ViewManager : Attempting to switch view!
+22:58:52.740 INFO  controller.MenuViewController : Book List View Pressed
+22:58:52.743 INFO  controller.MenuViewController : Switching Views
+22:58:52.743 INFO  view.ViewManager : Attempting to switch view!
+22:58:55.729 DEBUG controller.BookListViewController : Quitting Program
+22:59:01.291 DEBUG controller.BookListViewController : Quitting Program
+22:59:14.819 INFO  controller.MenuViewController : Book List View Pressed
+22:59:14.821 INFO  controller.MenuViewController : Switching Views
+22:59:14.822 INFO  view.ViewManager : Attempting to switch view!
+22:59:16.305 INFO  controller.BookListViewController : Home View Pressed
+22:59:16.306 INFO  controller.BookListViewController : Switching Views
+22:59:16.306 INFO  view.ViewManager : Attempting to switch view!
+22:59:17.013 DEBUG controller.MenuViewController : Quitting Program
+22:59:24.616 INFO  controller.MenuViewController : Book List View Pressed
+22:59:24.619 INFO  controller.MenuViewController : Switching Views
+22:59:24.619 INFO  view.ViewManager : Attempting to switch view!
+22:59:25.476 INFO  controller.BookListViewController : Home View Pressed
+22:59:25.477 INFO  controller.BookListViewController : Switching Views
+22:59:25.478 INFO  view.ViewManager : Attempting to switch view!
+22:59:26.206 INFO  controller.MenuViewController : Book List View Pressed
+22:59:26.207 INFO  controller.MenuViewController : Switching Views
+22:59:26.208 INFO  view.ViewManager : Attempting to switch view!
+22:59:26.818 DEBUG controller.BookListViewController : Quitting Program
+23:01:51.138 INFO  controller.MenuViewController : Book List View Pressed
+23:01:51.141 INFO  controller.MenuViewController : Switching Views
+23:01:51.141 INFO  view.ViewManager : Attempting to switch view!
+23:02:30.691 INFO  controller.MenuViewController : Book List View Pressed
+23:02:30.694 INFO  controller.MenuViewController : Switching Views
+23:02:30.694 INFO  view.ViewManager : Attempting to switch view!
+23:02:33.080 INFO  controller.BookListViewController : Home View Pressed
+23:02:33.081 INFO  controller.BookListViewController : Switching Views
+23:02:33.082 INFO  view.ViewManager : Attempting to switch view!
+23:02:33.961 INFO  controller.MenuViewController : Book List View Pressed
+23:02:33.962 INFO  controller.MenuViewController : Switching Views
+23:02:33.962 INFO  view.ViewManager : Attempting to switch view!
+23:02:34.563 INFO  controller.BookListViewController : Home View Pressed
+23:02:34.563 INFO  controller.BookListViewController : Switching Views
+23:02:34.564 INFO  view.ViewManager : Attempting to switch view!
+23:02:35.043 INFO  controller.MenuViewController : Book List View Pressed
+23:02:35.043 INFO  controller.MenuViewController : Switching Views
+23:02:35.044 INFO  view.ViewManager : Attempting to switch view!
+23:02:35.635 INFO  controller.BookListViewController : Home View Pressed
+23:02:35.636 INFO  controller.BookListViewController : Switching Views
+23:02:35.636 INFO  view.ViewManager : Attempting to switch view!
+23:02:36.205 INFO  controller.MenuViewController : Book List View Pressed
+23:02:36.205 INFO  controller.MenuViewController : Switching Views
+23:02:36.206 INFO  view.ViewManager : Attempting to switch view!
+23:02:37.045 DEBUG controller.BookListViewController : Quitting Program
+23:02:39.381 DEBUG controller.MenuViewController : Quitting Program
+23:03:11.102 INFO  controller.MenuViewController : Book List View Pressed
+23:03:11.104 INFO  controller.MenuViewController : Switching Views
+23:03:11.105 INFO  view.ViewManager : Attempting to switch view!
+23:03:16.221 INFO  controller.BookListViewController : Home View Pressed
+23:03:16.221 INFO  controller.BookListViewController : Switching Views
+23:03:16.222 INFO  view.ViewManager : Attempting to switch view!
+23:03:19.359 INFO  controller.MenuViewController : Book List View Pressed
+23:03:19.359 INFO  controller.MenuViewController : Switching Views
+23:03:19.360 INFO  view.ViewManager : Attempting to switch view!
+23:03:20.021 DEBUG controller.BookListViewController : Quitting Program
+07:53:59.677 INFO  controller.MenuViewController : Book List View Pressed
+07:53:59.681 INFO  controller.MenuViewController : Switching Views
+07:53:59.682 INFO  view.ViewManager : Attempting to switch view!
+07:53:59.685 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: Controller value already specified.
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml:7
+
+07:54:48.894 INFO  controller.MenuViewController : Book List View Pressed
+07:54:48.896 INFO  controller.MenuViewController : Switching Views
+07:54:48.897 INFO  view.ViewManager : Attempting to switch view!
+07:55:11.503 DEBUG controller.MenuViewController : Quitting Program
+07:57:20.996 INFO  controller.MenuViewController : Book List View Pressed
+07:57:20.999 INFO  controller.MenuViewController : Switching Views
+07:57:20.999 INFO  view.ViewManager : Attempting to switch view!
+07:57:25.919 INFO  controller.MenuViewController : Book List View Pressed
+07:57:25.920 INFO  controller.MenuViewController : Switching Views
+07:57:25.921 INFO  view.ViewManager : Attempting to switch view!
+07:57:30.547 INFO  controller.MenuViewController : Book List View Pressed
+07:57:30.547 INFO  controller.MenuViewController : Switching Views
+07:57:30.548 INFO  view.ViewManager : Attempting to switch view!
+07:57:33.548 DEBUG controller.MenuViewController : Quitting Program
+08:24:33.878 INFO  controller.MenuViewController : Book List View Pressed
+08:24:33.881 INFO  controller.MenuViewController : Switching Views
+08:24:33.881 INFO  view.ViewManager : Attempting to switch view!
+08:24:42.682 DEBUG controller.MenuViewController : Quitting Program
+08:50:57.285 INFO  controller.MenuViewController : Book List View Pressed
+08:50:57.289 INFO  controller.MenuViewController : Switching Views
+08:50:57.289 INFO  view.ViewManager : Attempting to switch view!
+08:51:02.491 INFO  controller.MenuViewController : Book List View Pressed
+08:51:02.492 INFO  controller.MenuViewController : Switching Views
+08:51:02.492 INFO  view.ViewManager : Attempting to switch view!
+08:51:10.699 DEBUG controller.MenuViewController : Quitting Program
+08:54:31.503 INFO  controller.MenuViewController : Book List View Pressed
+08:54:31.506 INFO  controller.MenuViewController : Switching Views
+08:54:31.506 INFO  view.ViewManager : Attempting to switch view!
+08:54:37.268 DEBUG controller.MenuViewController : Quitting Program
+08:55:59.637 INFO  controller.MenuViewController : Book List View Pressed
+08:55:59.639 INFO  controller.MenuViewController : Switching Views
+08:55:59.640 INFO  view.ViewManager : Attempting to switch view!
+08:56:05.393 DEBUG controller.MenuViewController : Quitting Program
+08:57:44.632 INFO  controller.MenuViewController : Book List View Pressed
+08:57:44.635 INFO  controller.MenuViewController : Switching Views
+08:57:44.635 INFO  view.ViewManager : Attempting to switch view!
+09:08:24.230 DEBUG controller.MenuViewController : Quitting Program
+14:15:52.862 INFO  controller.MenuViewController : Book List View Pressed
+14:15:52.866 INFO  controller.MenuViewController : Switching Views
+14:15:52.867 INFO  view.ViewManager : Attempting to switch view!
+14:16:36.152 INFO  controller.MenuViewController : Book List View Pressed
+14:16:36.154 INFO  controller.MenuViewController : Switching Views
+14:16:36.155 INFO  view.ViewManager : Attempting to switch view!
+14:16:37.821 DEBUG controller.MenuViewController : Quitting Program
+14:16:39.318 DEBUG controller.MenuViewController : Quitting Program
+14:16:48.933 INFO  controller.MenuViewController : Book List View Pressed
+14:16:48.936 INFO  controller.MenuViewController : Switching Views
+14:16:48.936 INFO  view.ViewManager : Attempting to switch view!
+14:16:52.789 INFO  controller.MenuViewController : Book List View Pressed
+14:16:52.790 INFO  controller.MenuViewController : Switching Views
+14:16:52.791 INFO  view.ViewManager : Attempting to switch view!
+14:16:57.608 DEBUG controller.MenuViewController : Quitting Program
+14:54:02.191 INFO  controller.MenuViewController : Book List View Pressed
+14:54:02.194 INFO  controller.MenuViewController : Switching Views
+14:54:02.194 INFO  view.ViewManager : Attempting to switch view!
+14:54:02.195 INFO  view.ViewManager : BookListVew!
+14:54:02.211 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml
+
+14:56:16.047 DEBUG controller.MenuViewController : Quitting Program
+14:56:22.835 INFO  controller.MenuViewController : Book List View Pressed
+14:56:22.839 INFO  controller.MenuViewController : Switching Views
+14:56:22.839 INFO  view.ViewManager : Attempting to switch view!
+14:56:22.840 INFO  view.ViewManager : BookListVew!
+14:56:32.765 DEBUG controller.MenuViewController : Quitting Program
+14:59:03.817 INFO  controller.MenuViewController : Book List View Pressed
+14:59:03.819 INFO  controller.MenuViewController : Switching Views
+14:59:03.820 INFO  view.ViewManager : Attempting to switch view!
+14:59:03.821 INFO  view.ViewManager : BookListVew!
+15:03:07.619 INFO  controller.MenuViewController : Book List View Pressed
+15:03:07.622 INFO  controller.MenuViewController : Switching Views
+15:03:07.622 INFO  view.ViewManager : Attempting to switch view!
+15:03:07.623 INFO  view.ViewManager : BookListVew!
+15:03:23.707 DEBUG controller.MenuViewController : Quitting Program
+15:03:25.371 DEBUG controller.MenuViewController : Quitting Program
+15:07:25.432 INFO  controller.MenuViewController : Book List View Pressed
+15:07:25.435 INFO  controller.MenuViewController : Switching Views
+15:07:25.435 INFO  view.ViewManager : Attempting to switch view!
+15:07:25.436 INFO  view.ViewManager : BookListVew!
+15:07:33.662 INFO  controller.MenuViewController : Book List View Pressed
+15:07:33.662 INFO  controller.MenuViewController : Switching Views
+15:07:33.663 INFO  view.ViewManager : Attempting to switch view!
+15:07:33.663 INFO  view.ViewManager : BookListVew!
+15:07:34.846 DEBUG controller.MenuViewController : Quitting Program
+07:28:45.682 INFO  controller.MenuViewController : Book List View Pressed
+07:28:45.686 INFO  controller.MenuViewController : Switching Views
+07:28:45.686 INFO  view.ViewManager : Attempting to switch view!
+07:28:45.688 INFO  view.ViewManager : BookListVew!
+07:28:53.208 INFO  controller.MenuViewController : Book List View Pressed
+07:28:53.209 INFO  controller.MenuViewController : Switching Views
+07:28:53.209 INFO  view.ViewManager : Attempting to switch view!
+07:28:53.210 INFO  view.ViewManager : BookListVew!
+07:28:53.887 INFO  controller.MenuViewController : Book List View Pressed
+07:28:53.888 INFO  controller.MenuViewController : Switching Views
+07:28:53.889 INFO  view.ViewManager : Attempting to switch view!
+07:28:53.890 INFO  view.ViewManager : BookListVew!
+07:28:54.645 INFO  controller.MenuViewController : Book List View Pressed
+07:28:54.646 INFO  controller.MenuViewController : Switching Views
+07:28:54.647 INFO  view.ViewManager : Attempting to switch view!
+07:28:54.647 INFO  view.ViewManager : BookListVew!
+07:29:03.313 DEBUG controller.MenuViewController : Quitting Program
+07:30:55.747 INFO  controller.MenuViewController : Book List View Pressed
+07:30:55.753 INFO  controller.MenuViewController : Switching Views
+07:30:55.753 INFO  view.ViewManager : Attempting to switch view!
+07:30:55.754 INFO  view.ViewManager : BookListVew!
+07:30:55.770 INFO  controller.BookListViewController : Book list added to the view!
+07:31:03.421 DEBUG controller.MenuViewController : Quitting Program
+07:35:26.582 INFO  controller.MenuViewController : Book List View Pressed
+07:35:26.585 INFO  controller.MenuViewController : Switching Views
+07:35:26.586 INFO  view.ViewManager : Attempting to switch view!
+07:35:26.587 INFO  view.ViewManager : BookListVew!
+07:35:26.604 INFO  controller.BookListViewController : Book list added to the view!
+07:35:33.689 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+07:35:41.682 DEBUG controller.MenuViewController : Quitting Program
+07:58:50.683 INFO  controller.MenuViewController : Book List View Pressed
+07:58:50.686 INFO  controller.MenuViewController : Switching Views
+07:58:50.686 INFO  view.ViewManager : Attempting to switch view!
+07:58:50.688 INFO  view.ViewManager : BookListVew!
+07:58:50.707 INFO  controller.BookListViewController : Book list added to the view!
+07:58:52.242 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+07:58:52.243 INFO  controller.BookListViewController : Switch to book detail view!
+07:58:52.244 INFO  view.ViewManager : Attempting to switch view!
+07:58:52.244 INFO  view.ViewManager : BookDetailVew!
+07:58:52.269 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookDetailView.fxml
+
+08:01:43.706 INFO  controller.MenuViewController : Book List View Pressed
+08:01:43.708 INFO  controller.MenuViewController : Switching Views
+08:01:43.709 INFO  view.ViewManager : Attempting to switch view!
+08:01:43.710 INFO  view.ViewManager : BookListVew!
+08:01:43.727 INFO  controller.BookListViewController : Book list added to the view!
+08:01:45.151 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+08:01:45.151 INFO  controller.BookListViewController : Switch to book detail view!
+08:01:45.152 INFO  view.ViewManager : Attempting to switch view!
+08:01:45.153 INFO  view.ViewManager : BookDetailVew!
+08:01:45.169 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookDetailView.fxml
+
+08:01:56.865 DEBUG controller.MenuViewController : Quitting Program
+08:01:57.259 DEBUG controller.MenuViewController : Quitting Program
+08:03:03.826 INFO  controller.MenuViewController : Book List View Pressed
+08:03:03.828 INFO  controller.MenuViewController : Switching Views
+08:03:03.829 INFO  view.ViewManager : Attempting to switch view!
+08:03:03.830 INFO  view.ViewManager : BookListVew!
+08:03:03.846 INFO  controller.BookListViewController : Book list added to the view!
+08:03:04.034 INFO  controller.MenuViewController : Book List View Pressed
+08:03:04.035 INFO  controller.MenuViewController : Switching Views
+08:03:04.035 INFO  view.ViewManager : Attempting to switch view!
+08:03:04.036 INFO  view.ViewManager : BookListVew!
+08:03:04.042 INFO  controller.BookListViewController : Book list added to the view!
+08:03:05.203 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+08:03:05.203 INFO  controller.BookListViewController : Switch to book detail view!
+08:03:05.204 INFO  view.ViewManager : Attempting to switch view!
+08:03:05.204 INFO  view.ViewManager : MenuView!
+08:03:06.774 DEBUG controller.MenuViewController : Quitting Program
+08:07:09.961 INFO  controller.MenuViewController : Book List View Pressed
+08:07:09.963 INFO  controller.MenuViewController : Switching Views
+08:07:09.964 INFO  view.ViewManager : Attempting to switch view!
+08:07:09.965 INFO  view.ViewManager : BookListVew!
+08:07:09.981 INFO  controller.BookListViewController : Book list added to the view!
+08:07:11.985 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+08:07:11.986 INFO  controller.BookListViewController : Switch to book detail view!
+08:07:11.986 INFO  view.ViewManager : Attempting to switch view!
+08:07:11.986 DEBUG view.ViewManager : urlfile:/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookDetailView.fxml
+08:07:11.987 DEBUG view.ViewManager : loader created
+08:07:11.987 INFO  view.ViewManager : BookDetailVew!
+08:07:12.003 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+08:07:15.819 DEBUG controller.MenuViewController : Quitting Program
+08:36:34.896 INFO  controller.MenuViewController : Book List View Pressed
+08:36:34.899 INFO  controller.MenuViewController : Switching Views
+08:36:34.899 INFO  view.ViewManager : Attempting to switch view!
+08:36:34.900 INFO  view.ViewManager : BookListVew!
+08:36:34.917 INFO  controller.BookListViewController : Book list added to the view!
+08:36:36.702 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+08:36:36.703 INFO  controller.BookListViewController : Switch to book detail view!
+08:36:36.703 INFO  view.ViewManager : Attempting to switch view!
+08:36:36.705 INFO  view.ViewManager : BookDetailVew!
+08:36:36.752 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+08:37:43.639 DEBUG controller.MenuViewController : Quitting Program
+08:38:18.727 INFO  controller.MenuViewController : Book List View Pressed
+08:38:18.729 INFO  controller.MenuViewController : Switching Views
+08:38:18.729 INFO  view.ViewManager : Attempting to switch view!
+08:38:18.731 INFO  view.ViewManager : BookListVew!
+08:38:18.793 INFO  controller.BookListViewController : Book list added to the view!
+08:38:21.080 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+08:38:21.080 INFO  controller.BookListViewController : Switch to book detail view!
+08:38:21.081 INFO  view.ViewManager : Attempting to switch view!
+08:38:21.082 INFO  view.ViewManager : BookDetailVew!
+08:38:21.133 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:18:04.916 INFO  controller.MenuViewController : Book List View Pressed
+09:18:04.920 INFO  controller.MenuViewController : Switching Views
+09:18:04.920 INFO  view.ViewManager : Attempting to switch view!
+09:18:04.921 INFO  view.ViewManager : BookListVew!
+09:18:04.948 INFO  controller.BookListViewController : Book list added to the view!
+09:18:10.629 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:18:10.630 INFO  controller.BookListViewController : Switch to book detail view!
+09:18:10.631 INFO  view.ViewManager : Attempting to switch view!
+09:18:10.632 INFO  view.ViewManager : BookDetailVew!
+09:18:10.682 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:18:36.316 DEBUG controller.MenuViewController : Quitting Program
+09:18:42.582 INFO  controller.MenuViewController : Book List View Pressed
+09:18:42.584 INFO  controller.MenuViewController : Switching Views
+09:18:42.585 INFO  view.ViewManager : Attempting to switch view!
+09:18:42.586 INFO  view.ViewManager : BookListVew!
+09:18:42.603 INFO  controller.BookListViewController : Book list added to the view!
+09:18:43.806 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:18:43.807 INFO  controller.BookListViewController : Switch to book detail view!
+09:18:43.807 INFO  view.ViewManager : Attempting to switch view!
+09:18:43.809 INFO  view.ViewManager : BookDetailVew!
+09:18:43.847 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:18:43.847 INFO  controller.BookDetailViewController : Harry Potter
+09:19:05.758 DEBUG controller.MenuViewController : Quitting Program
+09:31:34.142 INFO  controller.MenuViewController : Book List View Pressed
+09:31:34.145 INFO  controller.MenuViewController : Switching Views
+09:31:34.145 INFO  view.ViewManager : Attempting to switch view!
+09:31:34.146 INFO  view.ViewManager : BookListVew!
+09:31:34.164 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml
+
+09:33:04.388 INFO  controller.MenuViewController : Book List View Pressed
+09:33:04.392 INFO  controller.MenuViewController : Switching Views
+09:33:04.392 INFO  view.ViewManager : Attempting to switch view!
+09:33:04.393 INFO  view.ViewManager : BookListVew!
+09:33:04.411 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml
+
+09:36:46.528 INFO  controller.MenuViewController : Book List View Pressed
+09:36:46.530 INFO  controller.MenuViewController : Switching Views
+09:36:46.531 INFO  view.ViewManager : Attempting to switch view!
+09:36:46.531 INFO  view.ViewManager : BookListVew!
+09:36:46.548 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookListView.fxml
+
+09:37:09.418 DEBUG controller.MenuViewController : Quitting Program
+09:39:34.745 INFO  controller.MenuViewController : Book List View Pressed
+09:39:34.747 INFO  controller.MenuViewController : Switching Views
+09:39:34.748 INFO  view.ViewManager : Attempting to switch view!
+09:39:34.749 INFO  view.ViewManager : BookListVew!
+09:39:34.766 INFO  controller.BookListViewController : Book list added to the view!
+09:39:38.203 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:39:38.204 INFO  controller.BookListViewController : Switch to book detail view!
+09:39:38.204 INFO  view.ViewManager : Attempting to switch view!
+09:39:38.206 INFO  view.ViewManager : BookDetailVew!
+09:39:38.247 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:39:57.981 DEBUG controller.MenuViewController : Quitting Program
+09:40:03.790 INFO  controller.MenuViewController : Book List View Pressed
+09:40:03.793 INFO  controller.MenuViewController : Switching Views
+09:40:03.793 INFO  view.ViewManager : Attempting to switch view!
+09:40:03.794 INFO  view.ViewManager : BookListVew!
+09:40:03.813 INFO  controller.BookListViewController : Book list added to the view!
+09:40:48.399 INFO  controller.MenuViewController : Book List View Pressed
+09:40:48.402 INFO  controller.MenuViewController : Switching Views
+09:40:48.402 INFO  view.ViewManager : Attempting to switch view!
+09:40:48.403 INFO  view.ViewManager : BookListVew!
+09:40:48.419 INFO  controller.BookListViewController : Book list added to the view!
+09:40:54.729 DEBUG controller.MenuViewController : Quitting Program
+09:54:22.859 INFO  controller.MenuViewController : Book List View Pressed
+09:54:22.868 INFO  controller.MenuViewController : Switching Views
+09:54:22.870 INFO  view.ViewManager : Attempting to switch view!
+09:54:22.873 INFO  view.ViewManager : BookListVew!
+09:54:22.940 INFO  controller.BookListViewController : Book list added to the view!
+09:54:25.464 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:54:25.466 INFO  controller.BookListViewController : Switch to book detail view!
+09:54:25.467 INFO  view.ViewManager : Attempting to switch view!
+09:54:25.470 INFO  view.ViewManager : BookDetailVew!
+09:54:25.850 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:56:54.250 DEBUG controller.MenuViewController : Quitting Program
+09:57:40.385 INFO  controller.MenuViewController : Book List View Pressed
+09:57:40.388 INFO  controller.MenuViewController : Switching Views
+09:57:40.389 INFO  view.ViewManager : Attempting to switch view!
+09:57:40.390 INFO  view.ViewManager : BookListVew!
+09:57:40.465 INFO  controller.BookListViewController : Book list added to the view!
+09:57:43.694 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:57:43.695 INFO  controller.BookListViewController : Switch to book detail view!
+09:57:43.695 INFO  view.ViewManager : Attempting to switch view!
+09:57:43.696 INFO  view.ViewManager : BookDetailVew!
+09:57:43.805 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:57:51.316 INFO  controller.MenuViewController : Book List View Pressed
+09:57:51.317 INFO  controller.MenuViewController : Switching Views
+09:57:51.317 INFO  view.ViewManager : Attempting to switch view!
+09:57:51.318 INFO  view.ViewManager : BookListVew!
+09:57:51.322 INFO  controller.BookListViewController : Book list added to the view!
+09:57:53.290 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:57:53.291 INFO  controller.BookListViewController : Switch to book detail view!
+09:57:53.291 INFO  view.ViewManager : Attempting to switch view!
+09:57:53.291 INFO  view.ViewManager : BookDetailVew!
+09:57:53.343 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:57:58.304 DEBUG controller.MenuViewController : Quitting Program
+09:59:45.925 INFO  controller.MenuViewController : Book List View Pressed
+09:59:45.927 INFO  controller.MenuViewController : Switching Views
+09:59:45.927 INFO  view.ViewManager : Attempting to switch view!
+09:59:45.928 INFO  view.ViewManager : BookListVew!
+09:59:45.946 INFO  controller.BookListViewController : Book list added to the view!
+09:59:47.939 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+09:59:47.940 INFO  controller.BookListViewController : Switch to book detail view!
+09:59:47.941 INFO  view.ViewManager : Attempting to switch view!
+09:59:47.942 INFO  view.ViewManager : BookDetailVew!
+09:59:48.037 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+09:59:59.442 INFO  controller.MenuViewController : Book List View Pressed
+09:59:59.442 INFO  controller.MenuViewController : Switching Views
+09:59:59.443 INFO  view.ViewManager : Attempting to switch view!
+09:59:59.443 INFO  view.ViewManager : BookListVew!
+09:59:59.447 INFO  controller.BookListViewController : Book list added to the view!
+10:00:00.451 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+10:00:00.452 INFO  controller.BookListViewController : Switch to book detail view!
+10:00:00.453 INFO  view.ViewManager : Attempting to switch view!
+10:00:00.453 INFO  view.ViewManager : BookDetailVew!
+10:00:00.499 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+10:00:58.112 INFO  controller.MenuViewController : Book List View Pressed
+10:00:58.115 INFO  controller.MenuViewController : Switching Views
+10:00:58.115 INFO  view.ViewManager : Attempting to switch view!
+10:00:58.116 INFO  view.ViewManager : BookListVew!
+10:00:58.134 INFO  controller.BookListViewController : Book list added to the view!
+10:00:59.724 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+10:00:59.725 INFO  controller.BookListViewController : Switch to book detail view!
+10:00:59.726 INFO  view.ViewManager : Attempting to switch view!
+10:00:59.727 INFO  view.ViewManager : BookDetailVew!
+10:00:59.819 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+10:01:07.188 INFO  controller.MenuViewController : Book List View Pressed
+10:01:07.193 INFO  controller.MenuViewController : Switching Views
+10:01:07.193 INFO  view.ViewManager : Attempting to switch view!
+10:01:07.194 INFO  view.ViewManager : BookListVew!
+10:01:07.198 INFO  controller.BookListViewController : Book list added to the view!
+10:01:08.470 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+10:01:08.470 INFO  controller.BookListViewController : Switch to book detail view!
+10:01:08.471 INFO  view.ViewManager : Attempting to switch view!
+10:01:08.471 INFO  view.ViewManager : BookDetailVew!
+10:01:08.515 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+10:01:09.874 INFO  controller.MenuViewController : Book List View Pressed
+10:01:09.875 INFO  controller.MenuViewController : Switching Views
+10:01:09.875 INFO  view.ViewManager : Attempting to switch view!
+10:01:09.876 INFO  view.ViewManager : BookListVew!
+10:01:09.880 INFO  controller.BookListViewController : Book list added to the view!
+10:01:10.828 INFO  controller.MenuViewController : Book List View Pressed
+10:01:10.829 INFO  controller.MenuViewController : Switching Views
+10:01:10.829 INFO  view.ViewManager : Attempting to switch view!
+10:01:10.830 INFO  view.ViewManager : BookListVew!
+10:01:10.833 INFO  controller.BookListViewController : Book list added to the view!
+10:01:13.939 INFO  controller.MenuViewController : Book List View Pressed
+10:01:13.940 INFO  controller.MenuViewController : Switching Views
+10:01:13.941 INFO  view.ViewManager : Attempting to switch view!
+10:01:13.941 INFO  view.ViewManager : BookListVew!
+10:01:13.945 INFO  controller.BookListViewController : Book list added to the view!
+10:01:16.032 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+10:01:16.032 INFO  controller.BookListViewController : Switch to book detail view!
+10:01:16.033 INFO  view.ViewManager : Attempting to switch view!
+10:01:16.033 INFO  view.ViewManager : BookDetailVew!
+10:01:16.072 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+10:01:16.911 INFO  controller.MenuViewController : Book List View Pressed
+10:01:16.912 INFO  controller.MenuViewController : Switching Views
+10:01:16.912 INFO  view.ViewManager : Attempting to switch view!
+10:01:16.913 INFO  view.ViewManager : BookListVew!
+10:01:16.919 INFO  controller.BookListViewController : Book list added to the view!
+10:01:18.177 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+10:01:18.177 INFO  controller.BookListViewController : Switch to book detail view!
+10:01:18.178 INFO  view.ViewManager : Attempting to switch view!
+10:01:18.178 INFO  view.ViewManager : BookDetailVew!
+10:01:18.211 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+10:01:19.159 INFO  controller.MenuViewController : Book List View Pressed
+10:01:19.160 INFO  controller.MenuViewController : Switching Views
+10:01:19.160 INFO  view.ViewManager : Attempting to switch view!
+10:01:19.160 INFO  view.ViewManager : BookListVew!
+10:01:19.164 INFO  controller.BookListViewController : Book list added to the view!
+10:01:20.402 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+10:01:20.402 INFO  controller.BookListViewController : Switch to book detail view!
+10:01:20.403 INFO  view.ViewManager : Attempting to switch view!
+10:01:20.403 INFO  view.ViewManager : BookDetailVew!
+10:01:20.440 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+10:01:21.369 INFO  controller.MenuViewController : Book List View Pressed
+10:01:21.370 INFO  controller.MenuViewController : Switching Views
+10:01:21.371 INFO  view.ViewManager : Attempting to switch view!
+10:01:21.371 INFO  view.ViewManager : BookListVew!
+10:01:21.374 INFO  controller.BookListViewController : Book list added to the view!
+10:01:29.155 DEBUG controller.MenuViewController : Quitting Program
+10:01:30.789 DEBUG controller.MenuViewController : Quitting Program
+19:52:16.206 INFO  controller.MenuViewController : Book List View Pressed
+19:52:16.210 INFO  controller.MenuViewController : Switching Views
+19:52:16.210 INFO  view.ViewManager : Attempting to switch view!
+19:52:16.212 INFO  view.ViewManager : BookListVew!
+19:52:16.241 INFO  controller.BookListViewController : Book list added to the view!
+19:54:32.997 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+19:54:32.998 INFO  controller.BookListViewController : Switch to book detail view!
+19:54:32.999 INFO  view.ViewManager : Attempting to switch view!
+19:54:33.002 INFO  view.ViewManager : BookDetailVew!
+19:54:33.118 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+19:58:13.659 DEBUG controller.MenuViewController : Quitting Program
+19:58:19.624 INFO  controller.MenuViewController : Book List View Pressed
+19:58:19.626 INFO  controller.MenuViewController : Switching Views
+19:58:19.627 INFO  view.ViewManager : Attempting to switch view!
+19:58:19.628 INFO  view.ViewManager : BookListVew!
+19:58:19.645 INFO  controller.BookListViewController : Book list added to the view!
+19:58:20.723 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+19:58:20.724 INFO  controller.BookListViewController : Switch to book detail view!
+19:58:20.724 INFO  view.ViewManager : Attempting to switch view!
+19:58:20.725 INFO  view.ViewManager : BookDetailVew!
+19:58:20.818 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+19:58:25.157 INFO  controller.MenuViewController : Book List View Pressed
+19:58:25.157 INFO  controller.MenuViewController : Switching Views
+19:58:25.158 INFO  view.ViewManager : Attempting to switch view!
+19:58:25.158 INFO  view.ViewManager : BookListVew!
+19:58:25.162 INFO  controller.BookListViewController : Book list added to the view!
+19:58:26.197 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+19:58:26.197 INFO  controller.BookListViewController : Switch to book detail view!
+19:58:26.198 INFO  view.ViewManager : Attempting to switch view!
+19:58:26.198 INFO  view.ViewManager : BookDetailVew!
+19:58:26.243 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+19:58:27.782 INFO  controller.MenuViewController : Book List View Pressed
+19:58:27.782 INFO  controller.MenuViewController : Switching Views
+19:58:27.783 INFO  view.ViewManager : Attempting to switch view!
+19:58:27.784 INFO  view.ViewManager : BookListVew!
+19:58:27.787 INFO  controller.BookListViewController : Book list added to the view!
+19:58:27.934 INFO  controller.MenuViewController : Book List View Pressed
+19:58:27.935 INFO  controller.MenuViewController : Switching Views
+19:58:27.935 INFO  view.ViewManager : Attempting to switch view!
+19:58:27.936 INFO  view.ViewManager : BookListVew!
+19:58:27.940 INFO  controller.BookListViewController : Book list added to the view!
+19:58:29.125 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+19:58:29.126 INFO  controller.BookListViewController : Switch to book detail view!
+19:58:29.127 INFO  view.ViewManager : Attempting to switch view!
+19:58:29.127 INFO  view.ViewManager : BookDetailVew!
+19:58:29.167 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+21:09:58.980 DEBUG controller.MenuViewController : Quitting Program
+22:21:22.046 INFO  controller.MenuViewController : Book List View Pressed
+22:21:22.048 INFO  controller.MenuViewController : Switching Views
+22:21:22.049 INFO  view.ViewManager : Attempting to switch view!
+22:21:22.050 INFO  view.ViewManager : BookListVew!
+22:21:22.068 INFO  controller.BookListViewController : Book list added to the view!
+22:21:22.255 INFO  controller.MenuViewController : Book List View Pressed
+22:21:22.255 INFO  controller.MenuViewController : Switching Views
+22:21:22.256 INFO  view.ViewManager : Attempting to switch view!
+22:21:22.256 INFO  view.ViewManager : BookListVew!
+22:21:22.262 INFO  controller.BookListViewController : Book list added to the view!
+22:21:24.174 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:21:24.175 INFO  controller.BookListViewController : Switch to book detail view!
+22:21:24.175 INFO  view.ViewManager : Attempting to switch view!
+22:21:24.178 INFO  view.ViewManager : BookDetailVew!
+22:21:24.252 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:21:24.252 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookDetailView.fxml
+
+22:21:44.604 DEBUG controller.MenuViewController : Quitting Program
+22:21:49.890 INFO  controller.MenuViewController : Book List View Pressed
+22:21:49.892 INFO  controller.MenuViewController : Switching Views
+22:21:49.892 INFO  view.ViewManager : Attempting to switch view!
+22:21:49.893 INFO  view.ViewManager : BookListVew!
+22:21:49.912 INFO  controller.BookListViewController : Book list added to the view!
+22:21:51.280 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:21:51.280 INFO  controller.BookListViewController : Switch to book detail view!
+22:21:51.281 INFO  view.ViewManager : Attempting to switch view!
+22:21:51.282 INFO  view.ViewManager : BookDetailVew!
+22:21:51.350 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:21:51.351 ERROR view.ViewManager : Wow: IOE Exception!javafx.fxml.LoadException: 
+/Users/moonbase/git/EnterpriseSoftwareEngineering/assignment1/bin/view/BookDetailView.fxml
+
+22:23:03.107 INFO  controller.MenuViewController : Book List View Pressed
+22:23:03.112 INFO  controller.MenuViewController : Switching Views
+22:23:03.112 INFO  view.ViewManager : Attempting to switch view!
+22:23:03.113 INFO  view.ViewManager : BookListVew!
+22:23:03.131 INFO  controller.BookListViewController : Book list added to the view!
+22:23:04.205 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:23:04.206 INFO  controller.BookListViewController : Switch to book detail view!
+22:23:04.207 INFO  view.ViewManager : Attempting to switch view!
+22:23:04.208 INFO  view.ViewManager : BookDetailVew!
+22:23:04.274 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:23:49.799 INFO  controller.MenuViewController : Book List View Pressed
+22:23:49.800 INFO  controller.MenuViewController : Switching Views
+22:23:49.801 INFO  view.ViewManager : Attempting to switch view!
+22:23:49.802 INFO  view.ViewManager : BookListVew!
+22:23:49.806 INFO  controller.BookListViewController : Book list added to the view!
+22:23:51.403 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:23:51.404 INFO  controller.BookListViewController : Switch to book detail view!
+22:23:51.405 INFO  view.ViewManager : Attempting to switch view!
+22:23:51.405 INFO  view.ViewManager : BookDetailVew!
+22:23:51.434 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:24:18.341 DEBUG controller.MenuViewController : Quitting Program
+22:24:32.239 INFO  controller.MenuViewController : Book List View Pressed
+22:24:32.241 INFO  controller.MenuViewController : Switching Views
+22:24:32.242 INFO  view.ViewManager : Attempting to switch view!
+22:24:32.243 INFO  view.ViewManager : BookListVew!
+22:24:32.260 INFO  controller.BookListViewController : Book list added to the view!
+22:24:33.874 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:24:33.875 INFO  controller.BookListViewController : Switch to book detail view!
+22:24:33.875 INFO  view.ViewManager : Attempting to switch view!
+22:24:33.876 INFO  view.ViewManager : BookDetailVew!
+22:24:33.942 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:28:56.100 DEBUG controller.MenuViewController : Quitting Program
+22:30:50.201 INFO  controller.MenuViewController : Book List View Pressed
+22:30:50.204 INFO  controller.MenuViewController : Switching Views
+22:30:50.204 INFO  view.ViewManager : Attempting to switch view!
+22:30:50.206 INFO  view.ViewManager : BookListVew!
+22:30:50.227 INFO  controller.BookListViewController : Book list added to the view!
+22:30:51.756 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:30:51.757 INFO  controller.BookListViewController : Switch to book detail view!
+22:30:51.757 INFO  view.ViewManager : Attempting to switch view!
+22:30:51.758 INFO  view.ViewManager : BookDetailVew!
+22:30:51.832 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:31:13.573 INFO  controller.BookDetailViewController : Save button clicked!!!!
+22:31:17.739 DEBUG controller.MenuViewController : Quitting Program
+22:32:41.145 INFO  controller.MenuViewController : Book List View Pressed
+22:32:41.148 INFO  controller.MenuViewController : Switching Views
+22:32:41.148 INFO  view.ViewManager : Attempting to switch view!
+22:32:41.149 INFO  view.ViewManager : BookListVew!
+22:32:41.168 INFO  controller.BookListViewController : Book list added to the view!
+22:32:46.976 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+22:32:46.977 INFO  controller.BookListViewController : Switch to book detail view!
+22:32:46.978 INFO  view.ViewManager : Attempting to switch view!
+22:32:46.979 INFO  view.ViewManager : BookDetailVew!
+22:32:47.048 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+22:32:59.923 INFO  controller.BookDetailViewController : Save button clicked!!!!
+22:33:05.687 DEBUG controller.MenuViewController : Quitting Program
+21:25:24.055 INFO  controller.MenuViewController : Book List View Pressed
+21:25:24.059 INFO  controller.MenuViewController : Switching Views
+21:25:24.060 INFO  view.ViewManager : Attempting to switch view!
+21:25:24.061 INFO  view.ViewManager : BookListVew!
+21:25:24.084 INFO  controller.BookListViewController : Book list added to the view!
+21:25:26.463 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+21:25:26.463 INFO  controller.BookListViewController : Switch to book detail view!
+21:25:26.464 INFO  view.ViewManager : Attempting to switch view!
+21:25:26.467 INFO  view.ViewManager : BookDetailVew!
+21:25:26.536 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+21:25:38.997 INFO  controller.MenuViewController : Book List View Pressed
+21:25:38.997 INFO  controller.MenuViewController : Switching Views
+21:25:38.998 INFO  view.ViewManager : Attempting to switch view!
+21:25:38.999 INFO  view.ViewManager : BookListVew!
+21:25:39.003 INFO  controller.BookListViewController : Book list added to the view!
+21:25:41.059 INFO  controller.BookListViewController : Double Clicked a Book!!!!
+21:25:41.060 INFO  controller.BookListViewController : Switch to book detail view!
+21:25:41.060 INFO  view.ViewManager : Attempting to switch view!
+21:25:41.061 INFO  view.ViewManager : BookDetailVew!
+21:25:41.089 INFO  controller.BookDetailViewController : Book Detail View INITIALIZED!!!!
+21:25:59.884 INFO  controller.MenuViewController : Book List View Pressed
+21:25:59.885 INFO  controller.MenuViewController : Switching Views
+21:25:59.886 INFO  view.ViewManager : Attempting to switch view!
+21:25:59.886 INFO  view.ViewManager : BookListVew!
+21:25:59.890 INFO  controller.BookListViewController : Book list added to the view!
+21:26:12.219 DEBUG controller.MenuViewController : Quitting Program
+10:07:24.006 DEBUG controller.MenuViewController : Quitting Program
+10:07:40.945 DEBUG controller.MenuViewController : Quitting Program
+10:12:25.909 DEBUG controller.MenuViewController : Quitting Program
+10:13:45.634 DEBUG controller.MenuViewController : Quitting Program
